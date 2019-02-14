@@ -2,7 +2,7 @@
 	$host="localhost";
 	$user="root";
 	$pass="";
-	$db="sigmat";
+	$db="sigmatDB";
 	
 	$conn= new mysqli($host,$user,$pass,$db);
 	
